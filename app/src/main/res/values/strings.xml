@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GmailAndChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="primary">Primary</string>
+    <string name="icon">icon</string>
+    <string name="description">description</string>
+</resources>

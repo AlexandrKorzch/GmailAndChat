@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b33025</color>
+    <color name="colorPrimaryDark">#d53f38</color>
+    <color name="colorAccent">#d33e38</color>
+
+    <color name="divider">#e0e0e0</color>
+    <color name="gmailBackground">#fefefe</color>
+    <color name="white">#ffffff</color>
+
+    <color name="social">#4b80e5</color>
+    <color name="promotions">#24a864</color>
+    <color name="updates">#e6b333</color>
+    <color name="work">#f64630</color>
+    <color name="blue">#3c79f2</color>
+    <color name="gray">#c7c7c7</color>
+    <color name="fun">#b4cbf3</color>
+    <color name="family">#97d5e2</color>
+
+</resources>
